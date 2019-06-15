@@ -14,3 +14,7 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::any('payList','Pay\PayController@payList');//支付宝支付测试
+
+Route::any('paytest','Pay\PayController@payTest');//支付宝支付测试
