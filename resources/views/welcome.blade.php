@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    支付
+                    <a href="">支付</a>
                 </div>
             </div>
         </div>
